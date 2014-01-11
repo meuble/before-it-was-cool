@@ -1,0 +1,21 @@
+{
+  "AppDescription": {
+    "en": "A Spotify app that tells you who listened to a song first."
+  },
+  "AppIcon": {
+  },
+  "AppName": {
+    "en": "Before It Was Cool"
+   },
+  "BundleIdentifier": "before-it-was-cool",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "SupportedLanguages": [
+    "en"
+  ],
+  "VendorIdentifier": "before-it-was-cool.io"
+}
